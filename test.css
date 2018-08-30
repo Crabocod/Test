@@ -1,0 +1,44 @@
+body{
+	background: #0b868c;
+}
+
+input{
+	margin-left: 45%;
+}
+
+#txt{
+	width: 1000px;
+	height: 100px;
+	margin-left: 15%;
+	margin-bottom: 30px;
+	margin-top:30px;
+	font-size: 60px;
+	color: #691654;
+}
+#button{
+	height: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+#button:hover{
+	background: #691654;
+	color:#fff;
+	cursor:pointer;
+}
+#res{
+	text-align: center;
+	border-radius: 10px;
+	background: #691654;
+	padding:10px;
+	color: #fff;
+	width: 100px;
+	height: 50px;
+	font-size: 40px;
+	margin:20px auto;
+}
+hr{
+	width: 1000px;
+	height: 10px;
+	background: #691654;
+	border-radius: 3px;
+}
