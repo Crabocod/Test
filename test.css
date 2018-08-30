@@ -7,10 +7,11 @@ input{
 }
 
 #txt{
-	width: 850px;
+	width: 1000px;
 	height: 100px;
 	margin-bottom: 30px;
 	margin-top:30px;
+	margin-right:200px;
 	font-size: 60px;
 	color: #691654;
 }
